@@ -1,0 +1,17 @@
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.csprojAssemblyReference.cache
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.Properties.Resources.resources
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.csproj.GenerateResource.cache
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\latihanJon\latihanJon\bin\Debug\latihanJon.exe.config
+C:\Users\master\source\repos\latihanJon\latihanJon\bin\Debug\latihanJon.exe
+C:\Users\master\source\repos\latihanJon\latihanJon\bin\Debug\latihanJon.pdb
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.exe
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.pdb
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.LoginForm.resources
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.frontOfficeForm.resources
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.MasterRoomType.resources
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.MasterRoom.resources
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.admin.MasterEmployee.resources
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.AdminForm.resources
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.houseKeeperForm.resources
+C:\Users\master\source\repos\latihanJon\latihanJon\obj\Debug\latihanJon.houseKeeperSupervisorForm.resources
